@@ -13,7 +13,7 @@ const NavBar = () => {
     { id: 1, name: locale.NAV.ABOUT, to: '/about', show: BLOG.showAbout },
     { id: 2, name: locale.NAV.RSS, to: '/feed', show: true, external: true },
     { id: 3, name: locale.NAV.SEARCH, to: '/search', show: true },
-    { id: 4, name: locale.NAV.FRIENDS, to: '/experiment', show: true }
+    { id: 4, name: locale.NAV.FRIENDS, to: '/friends', show: true }
     
   ]
   return (
