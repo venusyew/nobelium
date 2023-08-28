@@ -3,8 +3,7 @@
     "INDEX": "Blog",
     "RSS": "RSS",
     "SEARCH": "Search",
-    "ABOUT": "About",
-    "FRIENDS": "Friends"
+    "ABOUT": "About"
   },
   "PAGINATION": {
     "PREV": "Prev",
