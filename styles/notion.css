@@ -111,7 +111,7 @@ pre[class*='language-'] {
 }
 
 .notion-bookmark:hover {
-  @apply border-blue-400;
+  @apply border-yellow-400;
 }
 .notion-viewport {
   z-index: -10;
