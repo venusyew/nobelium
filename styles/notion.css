@@ -132,6 +132,7 @@ pre[class*='language-'] {
 }
 .notion-quote {
   padding: 0.2em 0.9em;
+  font-size: 1em;
 }
 .notion-hr {
   border-top-width: 1px;
