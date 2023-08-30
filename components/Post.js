@@ -65,7 +65,7 @@ export default function Post (props) {
       <div className="self-stretch -mt-4 flex flex-col items-center lg:flex-row lg:items-stretch">
         {!fullWidth && <div className="flex-1 hidden lg:block" />}
         <div className={fullWidth ? 'flex-1 pr-4' : 'flex-none w-full max-w-2xl px-4'}>
-         
+        <NotionRenderer recordMap={blockMap} fullPage={false} darkMode={dark} />
         </div>
         
       </div>
